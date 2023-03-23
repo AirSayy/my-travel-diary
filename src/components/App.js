@@ -1,7 +1,7 @@
 import React from 'react'
-import Cards from '../src/Cards'
-import Nav from '../src/Nav'
-import dataApi from '../src/dataApi'
+import Cards from './Cards'
+import Nav from './Nav'
+import dataApi from './dataApi'
 function App() {
   const dataElements = dataApi.map(data => {
     return (
