@@ -13,7 +13,7 @@ function App() {
     )
   })
   return (
-    <div className='main'>
+    <div className='main w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700'>
     <Nav />
     {dataElements}
     </div>
