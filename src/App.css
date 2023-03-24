@@ -5,11 +5,18 @@
 body{
 margin: 0%;
 padding: 0%;
+background: scroll;
+background: rgb(179, 170, 163);
 }
 .main{
   margin: 0 auto;
   /* border: 2px solid red; */
   width: 50%;
   margin-top: 100px;
-  padding: 10px;
+  padding: 15px;
+  
+}
+.card{
+  
+  width: 100%s;
 }
